@@ -1,0 +1,5 @@
+KXBNB15M/
+*.zip
+*.parquet
+.ipynb_checkpoints/
+.DS_Store
